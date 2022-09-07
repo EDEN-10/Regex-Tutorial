@@ -56,7 +56,7 @@ The metacharacter \b is an anchor like the caret and the dollar sign. It matches
 
 ## Back-references
 
-
+A backreference in a regular expression identifies a previously matched group and looks for exactly the same text again. A simple example of the use of backreferences is when you wish to look for adjacent, repeated words in some text. The first part of the match could use a pattern that extracts a single word.
 
 ## Look-ahead and Look-behind
 
@@ -68,7 +68,6 @@ Hello, This is Eden Yiglletu from University of Minnesota Coding boot camp. Reac
  [Github](https://github.com/EDEN-10) 
  [Email](mailto:yigll002@umn.edu)
 
-## Credits 
 
 
 
